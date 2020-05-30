@@ -3,6 +3,8 @@
 Use the Rahona API with your PHP scripts in a simplified way with our official library.
 
 [![Discord Chat](https://img.shields.io/discord/642313281205436437?color=blue&label=discord)](https://discord.rahona.network)
+[![Downloads](https://img.shields.io/packagist/dt/rahona/php-rahona?color=green)](https://packagist.org/packages/rahona/php-rahona)
+[![License](https://img.shields.io/packagist/l/rahona/php-rahona)](https://packagist.org/packages/rahona/php-rahona)
 
 
 
