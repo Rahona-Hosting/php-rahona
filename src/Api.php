@@ -30,7 +30,7 @@ class Api
      *
      * @var string
      */
-    private $endpoint = "https://dev-api.rahona.network";
+    private $endpoint = "https://api.rahona.network";
 
     /**
      * @var null
