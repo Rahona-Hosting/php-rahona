@@ -1,0 +1,23 @@
+{
+    "name": "rahona/php-rahona",
+    "description": "PHP library for the Rahona API",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^6.5"
+    },
+    "autoload": {
+	"psr-4": {"Rahona\\": "src/"}
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.1",
+        "filp/whoops": "^2.7",
+        "symfony/var-dumper": "^5.0"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "IloGus",
+            "email": "contact@ilogus.fr"
+        }
+    ]
+}
